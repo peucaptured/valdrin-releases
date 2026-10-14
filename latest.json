@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.4",
-  "publishedAt": "2026-10-14T20:56:43.725Z",
-  "installerUrl": "https://github.com/peucaptured/valdrin-releases/releases/download/v0.1.4/Valdrin.Online.Setup.0.1.4.exe",
-  "sha256": "340f8fcbe3d43d16ad9f3974381d6ea3fdfa4155ed27e521b69d210eef56f4d4",
-  "size": 102385530,
-  "notes": "Atualizacao Valdrin Online 0.1.4"
+  "version": "0.3.0",
+  "publishedAt": "2026-10-14T23:37:41.324Z",
+  "installerUrl": "https://github.com/peucaptured/valdrin-releases/releases/download/v0.3.0/Valdrin.Online.Setup.0.3.0.exe",
+  "sha256": "6000db380c22841b25b9b14752df76282ee1ff0e7551fdf3ed94bbba390c5379",
+  "size": 102385569,
+  "notes": "Atualizacao Valdrin Online 0.3.0"
 }
