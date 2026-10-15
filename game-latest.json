@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "version": "2026.10.15.1",
+  "version": "2026.10.15.2",
   "minimumLauncherVersion": "0.1.4",
-  "publishedAt": "2026-10-15T11:31:12.322Z",
+  "publishedAt": "2026-10-15T12:02:18.856Z",
   "entrypoint": "index.html",
   "packs": [
     {
       "id": "app",
-      "sha256": "405d957db050e1c2a45dfe04bc022b9447fda592239db318e4cc3f52ca9875d7",
-      "size": 4943799,
-      "unpackedSize": 13243178,
+      "sha256": "8a045cd0ba9b2db3f16f54e3f5b4ca44fc88b497e47974286195b5720b02e4de",
+      "size": 4951909,
+      "unpackedSize": 13263713,
       "fileCount": 94,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.1/pack-app-405d957db050e1c2a45dfe04bc022b9447fda592239db318e4cc3f52ca9875d7.zip"
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.2/pack-app-8a045cd0ba9b2db3f16f54e3f5b4ca44fc88b497e47974286195b5720b02e4de.zip"
     },
     {
       "id": "audio-6ed8919c",
@@ -31,11 +31,11 @@
     },
     {
       "id": "audio-sfx-321d629a",
-      "sha256": "d38f4d5f2a29937458ea6ecae8d0a9a4844b8cbbb1b53e9759cb916aa707949d",
-      "size": 12242933,
-      "unpackedSize": 13737992,
-      "fileCount": 213,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-audio-sfx-321d629a-d38f4d5f2a29937458ea6ecae8d0a9a4844b8cbbb1b53e9759cb916aa707949d.zip"
+      "sha256": "eff0f8f73fd9887670403385c9594c2f964a7610dbb7045b1c987564694c54c3",
+      "size": 12656385,
+      "unpackedSize": 14249726,
+      "fileCount": 217,
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.2/pack-audio-sfx-321d629a-eff0f8f73fd9887670403385c9594c2f964a7610dbb7045b1c987564694c54c3.zip"
     },
     {
       "id": "campaign-assets-34bdd005",
@@ -510,5 +510,5 @@
       "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-ui-skins-shop-45ed8c3f-13abc4273fa18cc8f4a05a813075f62a5f1355a37a4e278e88113801076cfd51.zip"
     }
   ],
-  "totalBytes": 1803296397
+  "totalBytes": 1803717959
 }
