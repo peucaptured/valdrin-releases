@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "version": "2026.10.15.4",
+  "version": "2026.10.15.6",
   "minimumLauncherVersion": "0.1.4",
-  "publishedAt": "2026-10-15T13:47:56.724Z",
+  "publishedAt": "2026-10-15T20:48:14.132Z",
   "entrypoint": "index.html",
   "packs": [
     {
       "id": "app",
-      "sha256": "d5ce6bc4e9cf563ae393cc586ed388efbb33ca3d0f5c9f0a72a18882d66f8614",
-      "size": 8417022,
-      "unpackedSize": 23102191,
-      "fileCount": 181,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.4/pack-app-d5ce6bc4e9cf563ae393cc586ed388efbb33ca3d0f5c9f0a72a18882d66f8614.zip"
+      "sha256": "c90e9ec8250167dbb305bce77cf18f4601d8d0d690b2841258304ebe9e538320",
+      "size": 5072542,
+      "unpackedSize": 13612857,
+      "fileCount": 103,
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.6/pack-app-c90e9ec8250167dbb305bce77cf18f4601d8d0d690b2841258304ebe9e538320.zip"
     },
     {
       "id": "audio-6ed8919c",
-      "sha256": "a22518856e778a34773ad3ed9f3436edc58223a3f26dadeee0ca6766cec0f935",
-      "size": 796,
-      "unpackedSize": 1014,
+      "sha256": "87316ff7275c3ab11144c7ee76a033e7f73f244bb31823fa0e35ebc3f9cad042",
+      "size": 800,
+      "unpackedSize": 1039,
       "fileCount": 1,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-audio-6ed8919c-a22518856e778a34773ad3ed9f3436edc58223a3f26dadeee0ca6766cec0f935.zip"
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.6/pack-audio-6ed8919c-87316ff7275c3ab11144c7ee76a033e7f73f244bb31823fa0e35ebc3f9cad042.zip"
     },
     {
       "id": "audio-music-c7738ad5",
@@ -39,107 +39,51 @@
     },
     {
       "id": "campaign-assets-34bdd005",
-      "sha256": "e4f489d17b98b5a5c6fa62562350c870f28bbbdeea4a363a1544757dcb48c359",
-      "size": 2679,
-      "unpackedSize": 4033,
+      "sha256": "b9b04cd3be1dcb9f49c13e9f6218bd574c74166c83ff544ecdcaf04d148a6ca1",
+      "size": 2680,
+      "unpackedSize": 4034,
       "fileCount": 1,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-campaign-assets-34bdd005-e4f489d17b98b5a5c6fa62562350c870f28bbbdeea4a363a1544757dcb48c359.zip"
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.6/pack-campaign-assets-34bdd005-b9b04cd3be1dcb9f49c13e9f6218bd574c74166c83ff544ecdcaf04d148a6ca1.zip"
     },
     {
-      "id": "campaign-assets-characters-8a56af8f-s000",
-      "sha256": "0c34424e5751ee24773b001beddd6aa488bd6edaa460a87c111687c2ae964540",
-      "size": 17817919,
-      "unpackedSize": 16448696,
-      "fileCount": 11176,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-campaign-assets-characters-8a56af8f-s000-0c34424e5751ee24773b001beddd6aa488bd6edaa460a87c111687c2ae964540.zip"
-    },
-    {
-      "id": "campaign-assets-characters-8a56af8f-s001",
-      "sha256": "7f77fb8fa56fc1f06da3e17edba8e66473482d25a2c019b38475b1350f395a1c",
-      "size": 17543539,
-      "unpackedSize": 16150100,
-      "fileCount": 11075,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-campaign-assets-characters-8a56af8f-s001-7f77fb8fa56fc1f06da3e17edba8e66473482d25a2c019b38475b1350f395a1c.zip"
-    },
-    {
-      "id": "campaign-assets-characters-8a56af8f-s010",
-      "sha256": "87b8d1b83ddb21e68830f406193489eb9e628442b0747afb8d5e8dada99271d4",
-      "size": 17641212,
-      "unpackedSize": 16418424,
-      "fileCount": 10873,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-campaign-assets-characters-8a56af8f-s010-87b8d1b83ddb21e68830f406193489eb9e628442b0747afb8d5e8dada99271d4.zip"
-    },
-    {
-      "id": "campaign-assets-characters-8a56af8f-s011",
-      "sha256": "7bd94d9f9218fca7c6f69dfd92a2d068f4c010c47210ab4dd76ed0d017298341",
-      "size": 17568750,
-      "unpackedSize": 16302082,
-      "fileCount": 11012,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-campaign-assets-characters-8a56af8f-s011-7bd94d9f9218fca7c6f69dfd92a2d068f4c010c47210ab4dd76ed0d017298341.zip"
-    },
-    {
-      "id": "campaign-assets-characters-8a56af8f-s100",
-      "sha256": "290186f90b6c70c6f4ddb9e949dd9e1916ce0e456d2325dc41f50e59f79ca5ac",
-      "size": 17613783,
-      "unpackedSize": 16427805,
-      "fileCount": 11189,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-campaign-assets-characters-8a56af8f-s100-290186f90b6c70c6f4ddb9e949dd9e1916ce0e456d2325dc41f50e59f79ca5ac.zip"
-    },
-    {
-      "id": "campaign-assets-characters-8a56af8f-s101",
-      "sha256": "c5b430f137021aa2b46dd7c1486e09dac205436f29af47c0c31d2d8f3a9e805d",
-      "size": 17756046,
-      "unpackedSize": 20421662,
-      "fileCount": 11134,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-campaign-assets-characters-8a56af8f-s101-c5b430f137021aa2b46dd7c1486e09dac205436f29af47c0c31d2d8f3a9e805d.zip"
-    },
-    {
-      "id": "campaign-assets-characters-8a56af8f-s110",
-      "sha256": "e0a5f6f37bc7a1a3bc4dff81bb725ebe1c5195c7507a33c6ec14fe09a8cb633e",
-      "size": 17828114,
-      "unpackedSize": 16452493,
-      "fileCount": 11374,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-campaign-assets-characters-8a56af8f-s110-e0a5f6f37bc7a1a3bc4dff81bb725ebe1c5195c7507a33c6ec14fe09a8cb633e.zip"
-    },
-    {
-      "id": "campaign-assets-characters-8a56af8f-s111",
-      "sha256": "a41db76794ba34a534216c1f2c299270c17d6019f0ea4d72c70509a51e5912b8",
-      "size": 17455331,
-      "unpackedSize": 16149036,
-      "fileCount": 11076,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-campaign-assets-characters-8a56af8f-s111-a41db76794ba34a534216c1f2c299270c17d6019f0ea4d72c70509a51e5912b8.zip"
+      "id": "campaign-assets-characters-8a56af8f",
+      "sha256": "70d9ebb00d1090fd671139a349a00ed89f12cc5c211fe26e7a632f4bfb8bdcc1",
+      "size": 146521,
+      "unpackedSize": 4058066,
+      "fileCount": 5,
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.6/pack-campaign-assets-characters-8a56af8f-70d9ebb00d1090fd671139a349a00ed89f12cc5c211fe26e7a632f4bfb8bdcc1.zip"
     },
     {
       "id": "campaign-assets-environment-c2e017bf",
-      "sha256": "350252e5dc69618261dbe7806e749d92c15e66355330439b4afce16053953c90",
-      "size": 27709638,
-      "unpackedSize": 67953806,
-      "fileCount": 5372,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-campaign-assets-environment-c2e017bf-350252e5dc69618261dbe7806e749d92c15e66355330439b4afce16053953c90.zip"
+      "sha256": "58440a39cf90657c93f17f1ca328163c07f4b8e07dd7fd4c3db4ff29853aad5c",
+      "size": 1989157,
+      "unpackedSize": 1978230,
+      "fileCount": 305,
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.6/pack-campaign-assets-environment-c2e017bf-58440a39cf90657c93f17f1ca328163c07f4b8e07dd7fd4c3db4ff29853aad5c.zip"
     },
     {
       "id": "campaign-assets-ui-452e0372",
-      "sha256": "60e95d969e5306793f1608f5ce2352c293c5b36f9282ddd18093ec451c3c3c0f",
-      "size": 3256901,
-      "unpackedSize": 3433884,
-      "fileCount": 2644,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-campaign-assets-ui-452e0372-60e95d969e5306793f1608f5ce2352c293c5b36f9282ddd18093ec451c3c3c0f.zip"
+      "sha256": "20a9215567aa7f8386ecea2c3f17b1b805b0fb4641bb590a3cf7f63a6209a137",
+      "size": 4398,
+      "unpackedSize": 4891,
+      "fileCount": 6,
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.6/pack-campaign-assets-ui-452e0372-20a9215567aa7f8386ecea2c3f17b1b805b0fb4641bb590a3cf7f63a6209a137.zip"
     },
     {
       "id": "campaign-assets-vfx-56d25ebd",
-      "sha256": "fa0965b44923f87aad94aaf7eebf6de88278b23d381bb9863cda3854564d0d4e",
-      "size": 36663828,
-      "unpackedSize": 36675978,
-      "fileCount": 736,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-campaign-assets-vfx-56d25ebd-fa0965b44923f87aad94aaf7eebf6de88278b23d381bb9863cda3854564d0d4e.zip"
+      "sha256": "36c413288e9735a8fd386bfa5f13d46901c8a295cbccfcb9d6818c4f7b5b90b1",
+      "size": 2888,
+      "unpackedSize": 3169,
+      "fileCount": 4,
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.6/pack-campaign-assets-vfx-56d25ebd-36c413288e9735a8fd386bfa5f13d46901c8a295cbccfcb9d6818c4f7b5b90b1.zip"
     },
     {
       "id": "campaign-characters-c67caea9",
-      "sha256": "5e3b2ada12cee2e24036d248c8f895583cae51fcf8e4a6e4054387f663c41a3d",
-      "size": 796494,
-      "unpackedSize": 899446,
+      "sha256": "81d51127a62a8b9130906ce72900abe509b308b5957258d1033c481a8f4064ac",
+      "size": 796554,
+      "unpackedSize": 903083,
       "fileCount": 58,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-campaign-characters-c67caea9-5e3b2ada12cee2e24036d248c8f895583cae51fcf8e4a6e4054387f663c41a3d.zip"
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.6/pack-campaign-characters-c67caea9-81d51127a62a8b9130906ce72900abe509b308b5957258d1033c481a8f4064ac.zip"
     },
     {
       "id": "campaign-exploration-670dc06b",
@@ -167,11 +111,11 @@
     },
     {
       "id": "campaign-materials-0e9ea531",
-      "sha256": "724af0f75e27b4eec8db387fad08a97c9d0f4f06d0bc497ebb83e205fc4e58b4",
-      "size": 81377281,
-      "unpackedSize": 81447290,
+      "sha256": "4dad1e9787ae05ace4e2c603b8fb4ac906aad0951a77f09bb4fbaadc8c54e309",
+      "size": 81377283,
+      "unpackedSize": 81447312,
       "fileCount": 91,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-campaign-materials-0e9ea531-724af0f75e27b4eec8db387fad08a97c9d0f4f06d0bc497ebb83e205fc4e58b4.zip"
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.6/pack-campaign-materials-0e9ea531-4dad1e9787ae05ace4e2c603b8fb4ac906aad0951a77f09bb4fbaadc8c54e309.zip"
     },
     {
       "id": "campaign-minigames-d0372cf0",
@@ -207,11 +151,11 @@
     },
     {
       "id": "card-art-creature-0fa4aebb",
-      "sha256": "a324859a352029670e6edb79013199c26ec68e133acd37040ce8ac7bda327886",
-      "size": 74655255,
-      "unpackedSize": 74494960,
-      "fileCount": 480,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-card-art-creature-0fa4aebb-a324859a352029670e6edb79013199c26ec68e133acd37040ce8ac7bda327886.zip"
+      "sha256": "545f111e04cfeaf7e46f027da547664bcf8f6ad293e2f4c1559f511e6033e33b",
+      "size": 75112163,
+      "unpackedSize": 74951270,
+      "fileCount": 482,
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.6/pack-card-art-creature-0fa4aebb-545f111e04cfeaf7e46f027da547664bcf8f6ad293e2f4c1559f511e6033e33b.zip"
     },
     {
       "id": "card-art-equipment-11569f1e",
@@ -271,11 +215,11 @@
     },
     {
       "id": "models-creatures-f75a3207",
-      "sha256": "50cc6232dca06ed7e5720e7a93ef082af26094b250b3d5f74f3352566d0853f6",
-      "size": 58078586,
-      "unpackedSize": 144309943,
+      "sha256": "f59171765fde5adb8aa822a019a73ec8391680d7b893e0093d0288eccd9f6ac4",
+      "size": 58078591,
+      "unpackedSize": 144310204,
       "fileCount": 140,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-creatures-f75a3207-50cc6232dca06ed7e5720e7a93ef082af26094b250b3d5f74f3352566d0853f6.zip"
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.6/pack-models-creatures-f75a3207-f59171765fde5adb8aa822a019a73ec8391680d7b893e0093d0288eccd9f6ac4.zip"
     },
     {
       "id": "models-duel-8ef78104",
@@ -399,11 +343,11 @@
     },
     {
       "id": "models-wooden-premium-v4-929c89f1-s0",
-      "sha256": "b3d84ae4d6697c1ba716a0f1e1c25fed485dc9380e98d01842095703c621bab3",
-      "size": 123873668,
-      "unpackedSize": 127547144,
-      "fileCount": 85,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-wooden-premium-v4-929c89f1-s0-b3d84ae4d6697c1ba716a0f1e1c25fed485dc9380e98d01842095703c621bab3.zip"
+      "sha256": "96a9403f244082867b63d828a4107057957cafa97d15e8c5320e0079350c00bc",
+      "size": 125328887,
+      "unpackedSize": 129040900,
+      "fileCount": 86,
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.6/pack-models-wooden-premium-v4-929c89f1-s0-96a9403f244082867b63d828a4107057957cafa97d15e8c5320e0079350c00bc.zip"
     },
     {
       "id": "models-wooden-premium-v4-929c89f1-s1",
@@ -487,11 +431,11 @@
     },
     {
       "id": "ui-skins-battle-4bd85095",
-      "sha256": "f93ba973377a875ed0a7be0599e56d5fe0ee0602bc4d9df7d9311a5f46ef9271",
-      "size": 32186905,
-      "unpackedSize": 32232539,
+      "sha256": "6a7c15951e2f422d07689b5533bc34f3292a958daf5599c3ee0425e22bd614f6",
+      "size": 32186907,
+      "unpackedSize": 32232541,
       "fileCount": 36,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-ui-skins-battle-4bd85095-f93ba973377a875ed0a7be0599e56d5fe0ee0602bc4d9df7d9311a5f46ef9271.zip"
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.6/pack-ui-skins-battle-4bd85095-6a7c15951e2f422d07689b5533bc34f3292a958daf5599c3ee0425e22bd614f6.zip"
     },
     {
       "id": "ui-skins-deckbuilder-42e0682c",
@@ -518,5 +462,5 @@
       "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-ui-skins-shop-45ed8c3f-13abc4273fa18cc8f4a05a813075f62a5f1355a37a4e278e88113801076cfd51.zip"
     }
   ],
-  "totalBytes": 1823446619
+  "totalBytes": 1615302243
 }
