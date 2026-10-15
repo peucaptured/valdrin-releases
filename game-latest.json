@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "version": "2026.10.15.3",
+  "version": "2026.10.15.4",
   "minimumLauncherVersion": "0.1.4",
-  "publishedAt": "2026-10-15T12:50:31.535Z",
+  "publishedAt": "2026-10-15T13:47:56.724Z",
   "entrypoint": "index.html",
   "packs": [
     {
       "id": "app",
-      "sha256": "f769690c5831228e9b0d796ec2877290510c9dfbf574ee5c81cac8e8f6114c1b",
-      "size": 4962012,
-      "unpackedSize": 13294237,
-      "fileCount": 94,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.3/pack-app-f769690c5831228e9b0d796ec2877290510c9dfbf574ee5c81cac8e8f6114c1b.zip"
+      "sha256": "d5ce6bc4e9cf563ae393cc586ed388efbb33ca3d0f5c9f0a72a18882d66f8614",
+      "size": 8417022,
+      "unpackedSize": 23102191,
+      "fileCount": 181,
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.4/pack-app-d5ce6bc4e9cf563ae393cc586ed388efbb33ca3d0f5c9f0a72a18882d66f8614.zip"
     },
     {
       "id": "audio-6ed8919c",
@@ -262,6 +262,14 @@
       "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-fonts-8d50c2fe-72ad9cbe8eba3c35f84478aa3550e75d8c30b0498874d9fee2de53f7213c415d.zip"
     },
     {
+      "id": "marketing-e2a530e2",
+      "sha256": "764a2f514d61593d92a9da022644a62c5637b5e99bef4f0aec4d8ff0a243f39a",
+      "size": 16263547,
+      "unpackedSize": 16302022,
+      "fileCount": 18,
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.4/pack-marketing-e2a530e2-764a2f514d61593d92a9da022644a62c5637b5e99bef4f0aec4d8ff0a243f39a.zip"
+    },
+    {
       "id": "models-creatures-f75a3207",
       "sha256": "50cc6232dca06ed7e5720e7a93ef082af26094b250b3d5f74f3352566d0853f6",
       "size": 58078586,
@@ -510,5 +518,5 @@
       "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-ui-skins-shop-45ed8c3f-13abc4273fa18cc8f4a05a813075f62a5f1355a37a4e278e88113801076cfd51.zip"
     }
   ],
-  "totalBytes": 1803728062
+  "totalBytes": 1823446619
 }
