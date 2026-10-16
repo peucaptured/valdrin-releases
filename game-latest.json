@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "version": "2026.10.16.4",
+  "version": "2026.10.16.5",
   "minimumLauncherVersion": "0.1.4",
-  "publishedAt": "2026-10-16T12:49:59.348Z",
+  "publishedAt": "2026-10-16T13:07:50.438Z",
   "entrypoint": "index.html",
   "packs": [
     {
       "id": "app",
-      "sha256": "b782b8d33cd1de9edda4780f92a8784e570c9a9d404056220692bb64a4dedadc",
-      "size": 4986950,
-      "unpackedSize": 13358219,
+      "sha256": "c07fa331acac574687dc62692ffd339800c09fb6699299dc389f7ba06def2c91",
+      "size": 4988427,
+      "unpackedSize": 13361139,
       "fileCount": 94,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.16.4/pack-app-b782b8d33cd1de9edda4780f92a8784e570c9a9d404056220692bb64a4dedadc.zip"
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.16.5/pack-app-c07fa331acac574687dc62692ffd339800c09fb6699299dc389f7ba06def2c91.zip"
     },
     {
       "id": "audio-6ed8919c",
@@ -438,5 +438,5 @@
       "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-ui-skins-shop-45ed8c3f-13abc4273fa18cc8f4a05a813075f62a5f1355a37a4e278e88113801076cfd51.zip"
     }
   ],
-  "totalBytes": 1535449620
+  "totalBytes": 1535451097
 }
