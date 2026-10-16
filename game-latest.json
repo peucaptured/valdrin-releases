@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "version": "2026.10.16.5",
+  "version": "2026.10.16.11721",
   "minimumLauncherVersion": "0.1.4",
-  "publishedAt": "2026-10-16T13:07:50.438Z",
+  "publishedAt": "2026-10-16T17:23:27.652Z",
   "entrypoint": "index.html",
   "packs": [
     {
       "id": "app",
-      "sha256": "c07fa331acac574687dc62692ffd339800c09fb6699299dc389f7ba06def2c91",
-      "size": 4988427,
-      "unpackedSize": 13361139,
+      "sha256": "0cb118aecebced7cba73422aa1ed5d775e22bb33567a85236c83a4a327be6caa",
+      "size": 4993086,
+      "unpackedSize": 13372697,
       "fileCount": 94,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.16.5/pack-app-c07fa331acac574687dc62692ffd339800c09fb6699299dc389f7ba06def2c91.zip"
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.16.11721/pack-app-0cb118aecebced7cba73422aa1ed5d775e22bb33567a85236c83a4a327be6caa.zip"
     },
     {
       "id": "audio-6ed8919c",
@@ -111,11 +111,11 @@
     },
     {
       "id": "campaign-materials-0e9ea531",
-      "sha256": "724af0f75e27b4eec8db387fad08a97c9d0f4f06d0bc497ebb83e205fc4e58b4",
-      "size": 81377281,
-      "unpackedSize": 81447290,
-      "fileCount": 91,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.15.8/pack-campaign-materials-0e9ea531-724af0f75e27b4eec8db387fad08a97c9d0f4f06d0bc497ebb83e205fc4e58b4.zip"
+      "sha256": "10e2564ef2137e85509849eb8ca3844bc9e117f01463d93992dd6c3f78c8015c",
+      "size": 83791320,
+      "unpackedSize": 83858660,
+      "fileCount": 101,
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.16.11721/pack-campaign-materials-0e9ea531-10e2564ef2137e85509849eb8ca3844bc9e117f01463d93992dd6c3f78c8015c.zip"
     },
     {
       "id": "campaign-minigames-d0372cf0",
@@ -438,5 +438,5 @@
       "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-ui-skins-shop-45ed8c3f-13abc4273fa18cc8f4a05a813075f62a5f1355a37a4e278e88113801076cfd51.zip"
     }
   ],
-  "totalBytes": 1535451097
+  "totalBytes": 1537869795
 }
