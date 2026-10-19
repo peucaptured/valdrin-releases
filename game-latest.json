@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "version": "2026.10.19.10421",
+  "version": "2026.10.19.10427",
   "minimumLauncherVersion": "0.1.4",
-  "publishedAt": "2026-10-19T04:25:23.115Z",
+  "publishedAt": "2026-10-19T04:29:13.957Z",
   "entrypoint": "index.html",
   "packs": [
     {
       "id": "app",
-      "sha256": "280cc0d41e468fd7e944f4a4e58040300b064b4303dcb8c58cea0cb1d555daca",
-      "size": 5009594,
-      "unpackedSize": 13419314,
-      "fileCount": 94,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.19.10421/pack-app-280cc0d41e468fd7e944f4a4e58040300b064b4303dcb8c58cea0cb1d555daca.zip"
+      "sha256": "1bf4031f0a8c98dd0011c77d4c69e8d874032e7a42395dd11ff5a554fa5876c0",
+      "size": 5048980,
+      "unpackedSize": 13519209,
+      "fileCount": 103,
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.19.10427/pack-app-1bf4031f0a8c98dd0011c77d4c69e8d874032e7a42395dd11ff5a554fa5876c0.zip"
     },
     {
       "id": "audio-6ed8919c",
@@ -206,6 +206,14 @@
       "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-fonts-8d50c2fe-72ad9cbe8eba3c35f84478aa3550e75d8c30b0498874d9fee2de53f7213c415d.zip"
     },
     {
+      "id": "marketing-e2a530e2",
+      "sha256": "ea71a6c380e5ee0197dfe5e1aeaedae1801083186717c56a555ab7e43735888a",
+      "size": 16263532,
+      "unpackedSize": 16301948,
+      "fileCount": 18,
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.19.10427/pack-marketing-e2a530e2-ea71a6c380e5ee0197dfe5e1aeaedae1801083186717c56a555ab7e43735888a.zip"
+    },
+    {
       "id": "models-duel-8ef78104",
       "sha256": "d0e2db11a5cfd7684a1a1b33b737719ee5bb45ec835701830c8a43edf4084288",
       "size": 77316310,
@@ -366,5 +374,5 @@
       "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-ui-skins-shop-45ed8c3f-13abc4273fa18cc8f4a05a813075f62a5f1355a37a4e278e88113801076cfd51.zip"
     }
   ],
-  "totalBytes": 966171883
+  "totalBytes": 982474801
 }
