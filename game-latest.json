@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "version": "2026.10.19.10349",
+  "version": "2026.10.19.10413",
   "minimumLauncherVersion": "0.1.4",
-  "publishedAt": "2026-10-19T03:51:58.915Z",
+  "publishedAt": "2026-10-19T04:16:00.639Z",
   "entrypoint": "index.html",
   "packs": [
     {
       "id": "app",
-      "sha256": "7c12d8b4fed9a7e2dda1e4b78f1149f5b781ed31494fabd87d0ae8209934da22",
-      "size": 5005834,
-      "unpackedSize": 13410280,
+      "sha256": "e85af96b2d8fb3814fcb6da5ad6fcccd21aca354bc6c957796c3b52111f66367",
+      "size": 5009565,
+      "unpackedSize": 13419206,
       "fileCount": 94,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.19.10341/pack-app-7c12d8b4fed9a7e2dda1e4b78f1149f5b781ed31494fabd87d0ae8209934da22.zip"
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.19.10413/pack-app-e85af96b2d8fb3814fcb6da5ad6fcccd21aca354bc6c957796c3b52111f66367.zip"
     },
     {
       "id": "audio-6ed8919c",
@@ -214,22 +214,6 @@
       "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-duel-8ef78104-d0e2db11a5cfd7684a1a1b33b737719ee5bb45ec835701830c8a43edf4084288.zip"
     },
     {
-      "id": "models-premium-stage-mounted-47d4e939",
-      "sha256": "a8cd432eecae4f5abf2387ac089a022634fd56e586c22f3c94b0957a289fe0c6",
-      "size": 2913862,
-      "unpackedSize": 2988392,
-      "fileCount": 2,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-premium-stage-mounted-47d4e939-a8cd432eecae4f5abf2387ac089a022634fd56e586c22f3c94b0957a289fe0c6.zip"
-    },
-    {
-      "id": "models-premium-stage-test-c75bdea8",
-      "sha256": "55ee1b8b0262052f39a462aa2eb8176958d3595970fa42a283b65b8e1d050052",
-      "size": 126430978,
-      "unpackedSize": 224337820,
-      "fileCount": 16,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-premium-stage-test-c75bdea8-55ee1b8b0262052f39a462aa2eb8176958d3595970fa42a283b65b8e1d050052.zip"
-    },
-    {
       "id": "models-props-09256f48",
       "sha256": "6b9b550428e370245ffee8b950f241afbd1b85bc96de800badc1f8081be9c105",
       "size": 991637,
@@ -238,28 +222,12 @@
       "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-props-09256f48-6b9b550428e370245ffee8b950f241afbd1b85bc96de800badc1f8081be9c105.zip"
     },
     {
-      "id": "models-wooden-chess-v2-79cbac20",
-      "sha256": "db91a5e3636ce01d03a533dc3ea5c251fd7dfc404930cd16efec4ccbe0d622cf",
-      "size": 102032189,
-      "unpackedSize": 106845036,
-      "fileCount": 180,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-wooden-chess-v2-79cbac20-db91a5e3636ce01d03a533dc3ea5c251fd7dfc404930cd16efec4ccbe0d622cf.zip"
-    },
-    {
       "id": "models-wooden-expansion-premium-0c44ec00",
       "sha256": "d30b94b32d1591f852c79df1302356daab337bdfec68d20c5eca188e73723641",
       "size": 88792315,
       "unpackedSize": 91588532,
       "fileCount": 61,
       "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-wooden-expansion-premium-0c44ec00-d30b94b32d1591f852c79df1302356daab337bdfec68d20c5eca188e73723641.zip"
-    },
-    {
-      "id": "models-wooden-expansion-v2-882ddd61",
-      "sha256": "09f864066628e727c11f5a57b2f63e4f9c8d7e9cea466cc41bdcb0724d574c76",
-      "size": 71728835,
-      "unpackedSize": 74770948,
-      "fileCount": 61,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-wooden-expansion-v2-882ddd61-09f864066628e727c11f5a57b2f63e4f9c8d7e9cea466cc41bdcb0724d574c76.zip"
     },
     {
       "id": "models-wooden-final-premium-b88c2cb4",
@@ -276,46 +244,6 @@
       "unpackedSize": 24037420,
       "fileCount": 16,
       "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-wooden-leaders-premium-e51fa82f-4de903848cf2f95084aac2163bad5a8f155e819fbde5a1b4506c4b3c137ff16b.zip"
-    },
-    {
-      "id": "models-wooden-pieces-096cbbfc",
-      "sha256": "8e3345d114196dca9a6291686714017ff6c8e98a4d7f7fbf62b68cfbe041b8c1",
-      "size": 140438623,
-      "unpackedSize": 169300292,
-      "fileCount": 180,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-wooden-pieces-096cbbfc-8e3345d114196dca9a6291686714017ff6c8e98a4d7f7fbf62b68cfbe041b8c1.zip"
-    },
-    {
-      "id": "models-wooden-premium-detail-test-be9e00e2",
-      "sha256": "1579e3842e9f2be4f153f7d22218c19a6affb50324e84152bc88c30cc5fefb5b",
-      "size": 8389051,
-      "unpackedSize": 11627464,
-      "fileCount": 2,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-wooden-premium-detail-test-be9e00e2-1579e3842e9f2be4f153f7d22218c19a6affb50324e84152bc88c30cc5fefb5b.zip"
-    },
-    {
-      "id": "models-wooden-premium-finish-test-e91e1188",
-      "sha256": "5dcefda0648e1dd694faf5bd16e290cb2fd508f0acaf36c4f067c2bb55606413",
-      "size": 4879183,
-      "unpackedSize": 5495840,
-      "fileCount": 3,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-wooden-premium-finish-test-e91e1188-5dcefda0648e1dd694faf5bd16e290cb2fd508f0acaf36c4f067c2bb55606413.zip"
-    },
-    {
-      "id": "models-wooden-premium-support-test-9d365329",
-      "sha256": "fd5e6dc7a8f766fd3e2873361adfc2dc8e782e1af4a9501c88e6dd8dede456cc",
-      "size": 8758660,
-      "unpackedSize": 9057848,
-      "fileCount": 6,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-wooden-premium-support-test-9d365329-fd5e6dc7a8f766fd3e2873361adfc2dc8e782e1af4a9501c88e6dd8dede456cc.zip"
-    },
-    {
-      "id": "models-wooden-premium-surface-test-c1b8e9d7",
-      "sha256": "63ead456ccf9017152b7e4a09fcc974ca84c842320f05be166b2f494db30ee3b",
-      "size": 7283713,
-      "unpackedSize": 7469816,
-      "fileCount": 5,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-wooden-premium-surface-test-c1b8e9d7-63ead456ccf9017152b7e4a09fcc974ca84c842320f05be166b2f494db30ee3b.zip"
     },
     {
       "id": "models-wooden-premium-v4-929c89f1-s0",
@@ -335,11 +263,11 @@
     },
     {
       "id": "models-wooden-rpg-v3-fd8db9c3",
-      "sha256": "fad5c93aafa241d6a7cb8c29e123dd8bd5b87a40899902d2cc1880cd047cc1e0",
-      "size": 99416793,
-      "unpackedSize": 107457876,
-      "fileCount": 180,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-models-wooden-rpg-v3-fd8db9c3-fad5c93aafa241d6a7cb8c29e123dd8bd5b87a40899902d2cc1880cd047cc1e0.zip"
+      "sha256": "64698a4e2c554ecc20c26d43988459514cef5d0a6c4396e39cb070af57bf9f27",
+      "size": 557439,
+      "unpackedSize": 594296,
+      "fileCount": 1,
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.19.10413/pack-models-wooden-rpg-v3-fd8db9c3-64698a4e2c554ecc20c26d43988459514cef5d0a6c4396e39cb070af57bf9f27.zip"
     },
     {
       "id": "models-world-a5e0648a",
@@ -438,5 +366,5 @@
       "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-ui-skins-shop-45ed8c3f-13abc4273fa18cc8f4a05a813075f62a5f1355a37a4e278e88113801076cfd51.zip"
     }
   ],
-  "totalBytes": 1537882571
+  "totalBytes": 966171854
 }
