@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "2026.11.23.12235",
+  "version": "2026.11.23.12245",
   "minimumLauncherVersion": "0.1.4",
-  "publishedAt": "2026-11-23T22:38:47.710Z",
+  "publishedAt": "2026-11-23T22:47:29.096Z",
   "entrypoint": "index.html",
   "packs": [
     {
