@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "2026.11.23.12219",
+  "version": "2026.11.23.12235",
   "minimumLauncherVersion": "0.1.4",
-  "publishedAt": "2026-11-23T22:22:29.618Z",
+  "publishedAt": "2026-11-23T22:38:47.710Z",
   "entrypoint": "index.html",
   "packs": [
     {
@@ -207,11 +207,11 @@
     },
     {
       "id": "marketing-e2a530e2",
-      "sha256": "98cf4e31b169016eafaaddabd557c11b045730048a8aefa9483e62c356b42e58",
-      "size": 16263534,
-      "unpackedSize": 16301965,
+      "sha256": "8aa643d1ca5590013ce4534f9e063efcd8f8487fc93bc4c3ee22fd013dcc45ec",
+      "size": 19110901,
+      "unpackedSize": 19147700,
       "fileCount": 18,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.11.23.12157/pack-marketing-e2a530e2-98cf4e31b169016eafaaddabd557c11b045730048a8aefa9483e62c356b42e58.zip"
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.11.23.12235/pack-marketing-e2a530e2-8aa643d1ca5590013ce4534f9e063efcd8f8487fc93bc4c3ee22fd013dcc45ec.zip"
     },
     {
       "id": "models-duel-8ef78104",
@@ -374,5 +374,5 @@
       "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-ui-skins-shop-45ed8c3f-13abc4273fa18cc8f4a05a813075f62a5f1355a37a4e278e88113801076cfd51.zip"
     }
   ],
-  "totalBytes": 982502317
+  "totalBytes": 985349684
 }
