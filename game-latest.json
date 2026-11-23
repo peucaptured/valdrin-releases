@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "version": "2026.11.23.12144",
+  "version": "2026.11.23.12157",
   "minimumLauncherVersion": "0.1.4",
-  "publishedAt": "2026-11-23T21:46:04.885Z",
+  "publishedAt": "2026-11-23T21:58:46.212Z",
   "entrypoint": "index.html",
   "packs": [
     {
       "id": "app",
-      "sha256": "7ce6e7f356b5d1ac596c49af13a301fb425d25d7e00978002767f03d77c9b275",
-      "size": 5073636,
-      "unpackedSize": 13580627,
+      "sha256": "0a1c6d6f8f41c5b412da025566c594b6349b8938ba5c36eeb75fefd662128f2f",
+      "size": 5073618,
+      "unpackedSize": 13580647,
       "fileCount": 105,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.11.23.12144/pack-app-7ce6e7f356b5d1ac596c49af13a301fb425d25d7e00978002767f03d77c9b275.zip"
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.11.23.12157/pack-app-0a1c6d6f8f41c5b412da025566c594b6349b8938ba5c36eeb75fefd662128f2f.zip"
     },
     {
       "id": "audio-6ed8919c",
@@ -207,11 +207,11 @@
     },
     {
       "id": "marketing-e2a530e2",
-      "sha256": "ea71a6c380e5ee0197dfe5e1aeaedae1801083186717c56a555ab7e43735888a",
-      "size": 16263532,
-      "unpackedSize": 16301948,
+      "sha256": "98cf4e31b169016eafaaddabd557c11b045730048a8aefa9483e62c356b42e58",
+      "size": 16263534,
+      "unpackedSize": 16301965,
       "fileCount": 18,
-      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.19.10427/pack-marketing-e2a530e2-ea71a6c380e5ee0197dfe5e1aeaedae1801083186717c56a555ab7e43735888a.zip"
+      "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.11.23.12157/pack-marketing-e2a530e2-98cf4e31b169016eafaaddabd557c11b045730048a8aefa9483e62c356b42e58.zip"
     },
     {
       "id": "models-duel-8ef78104",
@@ -374,5 +374,5 @@
       "url": "https://github.com/peucaptured/valdrin-releases/releases/download/game-2026.10.14.6/pack-ui-skins-shop-45ed8c3f-13abc4273fa18cc8f4a05a813075f62a5f1355a37a4e278e88113801076cfd51.zip"
     }
   ],
-  "totalBytes": 982499457
+  "totalBytes": 982499441
 }
